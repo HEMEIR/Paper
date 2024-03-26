@@ -26,7 +26,7 @@ read paper for memorization and retrieval
 | Secure Byzantine-Robust Distributed Learning via Clustering | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2110.02940>  |
 | Towards Understanding Biased Client Selection in Federated Learning  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/jee-cho22a>  |
 | Game of Gradients: Mitigating Irrelevant Clients in Federated Learning  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/17093>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| DEPTHFL: DEPTHWISE FEDERATED LEARNING FOR HETEROGENEOUS CLIENTS | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=pf8RIZTMU58>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -76,7 +76,7 @@ read paper for memorization and retrieval
 | BERT Learns to Teach: Knowledge Distillation with Meta Learning  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2106.04570>  |
 | Self-Aware Personalized Federated Learning  | Advances in Neural Information Processing Systems\[J\] |  2022   | <https://proceedings.neurips.cc/paper_files/paper/2022/hash/8265d7bb2db42e86637001db2c46619f-Abstract-Conference.html>  |
 | Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization  | Advances in neural information processing systems\[J\] |  2020   | <https://proceedings.neurips.cc/paper_files/paper/2020/file/564127c03caab942e503ee6f810f54fd-Paper.pdf>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| Ditto: Fair and Robust Federated Learning Through Personalization  | International conference on machine learning.PMLR\[C\] |  2021   | <https://proceedings.mlr.press/v139/li21h>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -95,14 +95,15 @@ read paper for memorization and retrieval
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 
-# Differential Privacy
+# Privacy Preservation
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | Differentially Private Federated Learning on Heterogeneous Data  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/noble22a.html>  |
 | An adaptive federated learning scheme with differential privacy preserving  | Future Generation Computer Systems\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S0167739X21003617>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| A federated deep learning framework for privacy preservation and communication efficiency | Journal of Systems Architecture\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S1383762122000157>  |
+| VerifyNet: Secure and Verifiable Federated Learning  |  IEEE Transactions on Information Forensics and Security\[J\] |  2019   | <https://ieeexplore.ieee.org/abstract/document/8765347>  |
+| A Federated Learning Based Privacy-Preserving Smart Healthcare System  | IEEE Transactions on Industrial Informatics\[J\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9492000>  |
+| Blockchain-enabled Federated Learning Data Protection Aggregation Scheme with Differential Privacy and Homomorphic Encryption in IIoT  | IEEE Transactions on Industrial Informatics\[J\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9448383>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -125,7 +126,6 @@ read paper for memorization and retrieval
 # Security
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
-| VerifyNet: Secure and Verifiable Federated Learning  |  IEEE Transactions on Information Forensics and Security\[J\] |  2019   | <https://ieeexplore.ieee.org/abstract/document/8765347>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
