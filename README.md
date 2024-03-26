@@ -22,6 +22,8 @@ read paper for memorization and retrieval
 | Fast Heterogeneous Federated Learning with Hybrid Client Selection  | Uncertainty in Artificial Intelligence.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v216/song23b.html>  |
 | Tackling System and Statistical Heterogeneity for Federated Learning with Adaptive Client Sampling | IEEE INFOCOM 2022-IEEE conference on computer communications\[C\] |  2022   | <https://ieeexplore.ieee.org/abstract/document/9796935>  |
 ## Personalization
+|  Title   | Publication  |  Year   | Site  |
+|  -----   | -----------  |  ----   | ----  |
 | Personalized Cross-Silo Federated Learning on Non-IID Data  | Proceedings of the AAAI conference on artificial intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/16960>  |
 | ON THE CONVERGENCE OF FEDAVG ON NON-IID DATA  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1907.02189>  |
 | Federated Learning with Buffered Asynchronous Aggregation  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/nguyen22b.html>  |
