@@ -25,7 +25,7 @@ read paper for memorization and retrieval
 | Behavior Mimics Distribution: Combining Individual and Group Behaviors for Federated Learning  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2106.12300>  |
 | Secure Byzantine-Robust Distributed Learning via Clustering | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2110.02940>  |
 | Towards Understanding Biased Client Selection in Federated Learning  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/jee-cho22a>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| Game of Gradients: Mitigating Irrelevant Clients in Federated Learning  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/17093>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -66,9 +66,40 @@ read paper for memorization and retrieval
 | SplitFed: When Federated Learning Meets Split Learning  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2022   | <https://ojs.aaai.org/index.php/AAAI/article/view/20825>  |
 | Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework  | IEEE Open Journal of the Computer Society\[J\] |  2020   | <https://ieeexplore.ieee.org/abstract/document/9090366>  |
 | Personalized Federated Learning with Contextualized Generalization  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2106.13044>  |
+| Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning  | IJCAI: proceedings of the conference. NIH Public Access\[C\] |  2022   | <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10184830/>  |
+| WHERE TO BEGIN? ON THE IMPACT OF PRETRAINING AND INITIALIZATION IN FEDERATED LEARNING  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2206.15387>  |
+| Implicit Gradient Alignment in Distributed and Federated Learning  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2022   | <https://ojs.aaai.org/index.php/AAAI/article/view/20597>  |
+| Personalized Federated Learning With Graph  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2203.00829>  |
+| FEDERATED LEARNING FROM SMALL DATASETS  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2110.03469>  |
+| Federated Reinforcement Learning with Environment Heterogeneity | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/jin22a.html>  |
+| Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning  | Proceedings of the AAAI conference on artificial intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/17291>  |
+| BERT Learns to Teach: Knowledge Distillation with Meta Learning  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2106.04570>  |
+| Self-Aware Personalized Federated Learning  | Advances in Neural Information Processing Systems\[J\] |  2022   | <https://proceedings.neurips.cc/paper_files/paper/2022/hash/8265d7bb2db42e86637001db2c46619f-Abstract-Conference.html>  |
+| Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization  | Advances in neural information processing systems\[J\] |  2020   | <https://proceedings.neurips.cc/paper_files/paper/2020/file/564127c03caab942e503ee6f810f54fd-Paper.pdf>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+
+# Differential Privacy
+|  Title   | Publication  |  Year   | Site  |
+|  -----   | -----------  |  ----   | ----  |
+| Differentially Private Federated Learning on Heterogeneous Data  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/noble22a.html>  |
+| An adaptive federated learning scheme with differential privacy preserving  | Future Generation Computer Systems\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S0167739X21003617>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -95,6 +126,19 @@ read paper for memorization and retrieval
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | VerifyNet: Secure and Verifiable Federated Learning  |  IEEE Transactions on Information Forensics and Security\[J\] |  2019   | <https://ieeexplore.ieee.org/abstract/document/8765347>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+
+# Incentive Mechanism
+|  Title   | Publication  |  Year   | Site  |
+|  -----   | -----------  |  ----   | ----  |
+| Incentive-boosted Federated Crowdsourcing  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2023   | <https://ojs.aaai.org/index.php/AAAI/article/view/25744>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
