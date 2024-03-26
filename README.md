@@ -67,7 +67,7 @@ read paper for memorization and retrieval
 | Personalized Federated Learning for Intelligent IoT Applications: A Cloud-Edge based Framework  | IEEE Open Journal of the Computer Society\[J\] |  2020   | <https://ieeexplore.ieee.org/abstract/document/9090366>  |
 | Personalized Federated Learning with Contextualized Generalization  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2106.13044>  |
 | Adapt to Adaptation: Learning Personalization for Cross-Silo Federated Learning  | IJCAI: proceedings of the conference. NIH Public Access\[C\] |  2022   | <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10184830/>  |
-| WHERE TO BEGIN? ON THE IMPACT OF PRETRAINING AND INITIALIZATION IN FEDERATED LEARNING  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2206.15387>  |
+| WHERE TO BEGIN? ON THE IMPACT OF PRETRAINING AND INITIALIZATION IN FEDERATED LEARNING  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2206.15387>  |
 | Implicit Gradient Alignment in Distributed and Federated Learning  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2022   | <https://ojs.aaai.org/index.php/AAAI/article/view/20597>  |
 | Personalized Federated Learning With Graph  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2203.00829>  |
 | FEDERATED LEARNING FROM SMALL DATASETS  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2110.03469>  |
