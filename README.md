@@ -20,7 +20,7 @@ read paper for memorization and retrieval
 # <div id='1'>Federated Learning<div>
 
 ## <div id='1.1'>Client Selection<div>
-|  Title<img width=200/>|<img width=100/>Publication  |  Year   | Site  |
+|  Title  |  Publication  |  Year   | Site  |
 |  :---:   | :---:  |  :---:   | :---:  |
 | DIVERSE CLIENT SELECTION FOR FEDERATED LEARNING VIA SUBMODULAR MAXIMIZATION |International Conference on Learning Representations.ICLR\[C\] | 2022 | <https://par.nsf.gov/servlets/purl/10356054>  |
 | Anchor Sampling for Federated Learning with Partial Client Participation  | International Conference on Machine Learning.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v202/wu23e.html>  |
