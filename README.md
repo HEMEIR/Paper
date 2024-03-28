@@ -19,9 +19,6 @@ read paper for memorization and retrieval
 
 # <div id='1'>Federated Learning<div>
 
-table colgroup col {
-    width: auto !important;
-}
 ## <div id='1.1'>Client Selection<div>
 |  Title  |  Publication  |  Year   | Site  |
 |  :---:   | :---:  |  :---:   | :---:  |
