@@ -1,19 +1,21 @@
 # Paper
 read paper for memorization and retrieval
 
-[Federated Learning](#1)
+# Directory
 
-- [Client Selection](#1.1)
+# [Federated Learning](#1)
 
-- [Personalization](#1.2)
+## - [Client Selection](#1.1)
 
-- [Privacy Preservation](#1.3)
+## - [Personalization](#1.2)
 
-- [Dataset](#1.4)
+## - [Privacy Preservation](#1.3)
 
-- [Security](#1.5)
+## - [Dataset](#1.4)
 
-- [Incentive Mechanism](#1.6)
+## - [Security](#1.5)
+
+## - [Incentive Mechanism](#1.6)
 
 
 # <div id='1'>Federated Learning<div>
