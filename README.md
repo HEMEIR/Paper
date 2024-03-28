@@ -1,17 +1,18 @@
 # Paper
 read paper for memorization and retrieval
 
-[Federated Learning](#federated)
+[Federated Learning](#1)
+-[Client Selection](#1.1)
+-[Personalization](#1.2)
+-[Privacy Preservation](#1.3)
+-[Dataset](#1.4)
+-[Security](#1.5)
+-[Incentive Mechanism](#1.6)
 
 
+# <div id='1'>Federated Learning<div>
 
-
-
-
-
-# <div id='federated'>Federated Learning<div>
-
-## Client Selection
+## <div id='1.1'>Client Selection<div>
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 |DIVERSE CLIENT SELECTION FOR FEDERATED LEARNING VIA SUBMODULAR MAXIMIZATION|International Conference on Learning Representations.ICLR\[C\] | 2022 | <https://par.nsf.gov/servlets/purl/10356054>  |
@@ -42,7 +43,7 @@ read paper for memorization and retrieval
 | GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES  | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=-EHqoysUYLx>  |
 | EXPLORING FEDERATED OPTIMIZATION BY REDUCING VARIANCE OF ADAPTIVE UNBIASED CLIENT SAMPLING  | arXiv preprint\[J\] |  2023   | <https://arxiv.org/abs/2310.02698>  |
 
-## Personalization
+## <div id='1.2'>Personalization<div>
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | Personalized Cross-Silo Federated Learning on Non-IID Data  | Proceedings of the AAAI conference on artificial intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/16960>  |
@@ -104,7 +105,7 @@ read paper for memorization and retrieval
 | Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2011.04050>  |
 | Do Deep Nets Really Need to be Deep?  | Advances in neural information processing systems\[J\] |  2014   | <https://proceedings.neurips.cc/paper_files/paper/2014/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html>  |
 
-## Privacy Preservation
+## <div id='1.3'>Privacy Preservation<div>
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | Differentially Private Federated Learning on Heterogeneous Data  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/noble22a.html>  |
@@ -141,7 +142,7 @@ Aggregation for Federated Learning via Hardness of Learning with Errors  | 31st 
 | Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Diferential Privacy  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2212.04371>  |
 | Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy  | International Conference on Machine Learning, ICML 2022\[C\] |  2022   | <https://par.nsf.gov/servlets/purl/10395073>  |
 
-## Dataset
+## <div id='1.4'>Dataset<div>
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | MEDMNIST CLASSIFICATION DECATHLON: A LIGHTWEIGHT AUTOML BENCHMARK FOR MEDICAL IMAGE ANALYSIS  | 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)\[C\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9434062>  |
@@ -150,13 +151,13 @@ Aggregation for Federated Learning via Hardness of Learning with Errors  | 31st 
 | HarmoFL: Harmonizing Local and Global Drifts in
 Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2022   | <https://ojs.aaai.org/index.php/AAAI/article/view/19993>  |
 
-## Security
+## <div id='1.5'>Security<div>
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | Byzantine-Robust Federated Learning with Optimal Statistical Rates  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v206/zhu23b.html>  |
 | Privacy Inference Attack and Defense in Centralized and Federated Learning: A Comprehensive Survey  |  IEEE Transactions on Artificial Intelligence\[J\] |  2024   | <https://ieeexplore.ieee.org/abstract/document/10429780>  |
 
-## Incentive Mechanism
+## <div id='1.6'>Incentive Mechanism<div>
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | Incentive-boosted Federated Crowdsourcing  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2023   | <https://ojs.aaai.org/index.php/AAAI/article/view/25744>  |
