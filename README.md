@@ -2,8 +2,12 @@
 read paper for memorization and retrieval
 
 # Directory
+<details open>
+<summary></summary>
         
 # [Federated Learning](#1)
+<details open>
+<summary></summary>
         
 ## [Client Selection](#1.1)
 
@@ -16,6 +20,9 @@ read paper for memorization and retrieval
 ## [Security](#1.5)
 
 ## [Incentive Mechanism](#1.6)
+
+</details>
+</details>
 
 # <div id='1'>Federated Learning</div>
 <details open>
