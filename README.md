@@ -30,8 +30,8 @@ read paper for memorization and retrieval
 | FAIR RESOURCE ALLOCATION IN FEDERATED LEARNING  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1905.10497>  |
 | A Unified Analysis of Federated Learning with Arbitrary Client Participation  | Advances in Neural Information Processing Systems\[J\] |  2022   | <https://proceedings.neurips.cc/paper_files/paper/2022/hash/79ba1b827d3fc58e129d1cbfc8ff69f2-Abstract-Conference.html>  |
 | AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation  | European Conference on Computer Vision. Cham: Springer Nature Switzerland\[C\] |  2022   | <https://link.springer.com/chapter/10.1007/978-3-031-20050-2_41>  |
-| GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES  | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=-EHqoysUYLx>  |
-| EXPLORING FEDERATED OPTIMIZATION BY REDUCING VARIANCE OF ADAPTIVE UNBIASED CLIENT SAMPLING  | arXiv preprint\[J\] |  2023   | <https://arxiv.org/abs/2310.02698>  |
+| GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES  | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=-EHqoysUYLx>  |
+| EXPLORING FEDERATED OPTIMIZATION BY REDUCING VARIANCE OF ADAPTIVE UNBIASED CLIENT SAMPLING  | arXiv preprint\[J\] |  2023   | <https://arxiv.org/abs/2310.02698>  |
 
 ## Personalization
 |  Title   | Publication  |  Year   | Site  |
@@ -88,7 +88,7 @@ read paper for memorization and retrieval
 | Communication-Efficient On-Device Machine Learning:Federated Distillation and Augmentation under Non-IID Private Data  | arXiv preprint\[J\] |  2018   | <https://arxiv.org/abs/1811.11479>  |
 | Federated Learning of a Mixture of Global and Local Models  | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2002.05516>  |
 | Federated Multi-Task Learning  | Advances in neural information processing systems\[J\] |  2017   | <https://proceedings.neurips.cc/paper/2017/hash/6211080fa89981f66b1a0c9d55c61d0f-Abstract.html>  |
-| IMPROVING FEDERATED LEARNING PERSONALIZATION VIA MODEL AGNOSTIC META LEARNING  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1909.12488>  |
+| IMPROVING FEDERATED LEARNING PERSONALIZATION VIA MODEL AGNOSTIC META LEARNING  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1909.12488>  |
 | FedMD: Heterogenous Federated Learning via Model Distillation  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1910.03581>  |
 | Learning What and Where to Transfer  | International conference on machine learning.PMLR\[C\] |  2019   | <https://proceedings.mlr.press/v97/jang19b>  |
 | FITNETS: HINTS FOR THIN DEEP NETS  | Advances in neural information processing systems\[J\] |  2015   | <https://proceedings.neurips.cc/paper/2015/hash/215a71a12769b056c3c32e7299f1c5ed-Abstract.html>  |
