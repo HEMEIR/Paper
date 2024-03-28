@@ -27,6 +27,22 @@ read paper for memorization and retrieval
 | Towards Understanding Biased Client Selection in Federated Learning  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/jee-cho22a>  |
 | Game of Gradients: Mitigating Irrelevant Clients in Federated Learning  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/17093>  |
 | DEPTHFL: DEPTHWISE FEDERATED LEARNING FOR HETEROGENEOUS CLIENTS | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=pf8RIZTMU58>  |
+| FAIR RESOURCE ALLOCATION IN FEDERATED LEARNING  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1905.10497>  |
+| A Unified Analysis of Federated Learning with Arbitrary Client Participation  | Advances in Neural Information Processing Systems\[J\] |  2022   | <https://proceedings.neurips.cc/paper_files/paper/2022/hash/79ba1b827d3fc58e129d1cbfc8ff69f2-Abstract-Conference.html>  |
+| AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation  | European Conference on Computer Vision. Cham: Springer Nature Switzerland\[C\] |  2022   | <https://link.springer.com/chapter/10.1007/978-3-031-20050-2_41>  |
+| GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES  | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=-EHqoysUYLx>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -77,14 +93,14 @@ read paper for memorization and retrieval
 | Self-Aware Personalized Federated Learning  | Advances in Neural Information Processing Systems\[J\] |  2022   | <https://proceedings.neurips.cc/paper_files/paper/2022/hash/8265d7bb2db42e86637001db2c46619f-Abstract-Conference.html>  |
 | Tackling the Objective Inconsistency Problem in Heterogeneous Federated Optimization  | Advances in neural information processing systems\[J\] |  2020   | <https://proceedings.neurips.cc/paper_files/paper/2020/file/564127c03caab942e503ee6f810f54fd-Paper.pdf>  |
 | Ditto: Fair and Robust Federated Learning Through Personalization  | International conference on machine learning.PMLR\[C\] |  2021   | <https://proceedings.mlr.press/v139/li21h>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| Communication-Efficient Learning of Deep Networks from Decentralized Data  | Artificial intelligence and statistics. PMLR\[C\] |  2017   | <https://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com>  |
+| FedDisco: Federated Learning with Discrepancy-Aware Collaboration  | International Conference on Machine Learning.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v202/ye23f.html>  |
+| Federated Multi-Task Learning under a Mixture of Distributions|  Advances in Neural Information Processing Systems\[J\] |  2021   |<https://proceedings.neurips.cc/paper_files/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html>  |
+| FEDERATED OPTIMIZATION IN HETEROGENEOUS NETWORKS  | Proceedings of Machine learning and systems\[J\] |  2020   | <https://proceedings.mlsys.org/paper_files/paper/2020/hash/1f5fe83998a09396ebe6477d9475ba0c-Abstract.html>  |
+| Hogwild!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent  | Advances in neural information processing systems\[J\] |  2011   | <https://proceedings.neurips.cc/paper_files/paper/2011/hash/218a0aefd1d1a4be65601cc6ddc1520e-Abstract.html>  |
+| Communication-Efficient On-Device Machine Learning:Federated Distillation and Augmentation under Non-IID Private Data  | arXiv preprint\[J\] |  2018   | <https://arxiv.org/abs/1811.11479>  |
+| Federated Learning of a Mixture of Global and Local Models  | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2002.05516>  |
+| Federated Multi-Task Learning  | Advances in neural information processing systems\[J\] |  2017   | <https://proceedings.neurips.cc/paper/2017/hash/6211080fa89981f66b1a0c9d55c61d0f-Abstract.html>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -104,6 +120,18 @@ read paper for memorization and retrieval
 | VerifyNet: Secure and Verifiable Federated Learning  |  IEEE Transactions on Information Forensics and Security\[J\] |  2019   | <https://ieeexplore.ieee.org/abstract/document/8765347>  |
 | A Federated Learning Based Privacy-Preserving Smart Healthcare System  | IEEE Transactions on Industrial Informatics\[J\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9492000>  |
 | Blockchain-enabled Federated Learning Data Protection Aggregation Scheme with Differential Privacy and Homomorphic Encryption in IIoT  | IEEE Transactions on Industrial Informatics\[J\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9448383>  |
+| FeARH: Federated machine learning with anonymous random hybridization on electronic medical records  | Journal of Biomedical Informatics\[J\] |  2021   | <https://www.sciencedirect.com/science/article/pii/S1532046421000642>  |
+| Federated Learning With Differential Privacy: Algorithms and Performance Analysis  | IEEE transactions on information forensics and security\[J\] |  2020   | <https://ieeexplore.ieee.org/abstract/document/9069945>  |
+| FedHealth: A Federated Transfer Learning Framework for Wearable Healthcare  | IEEE Intelligent Systems\[J\] |  2020   | <https://ieeexplore.ieee.org/abstract/document/9076082>  |
+| Hybrid differential privacy based federated learning for Internet of Things  | Journal of Systems Architecture\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S1383762122000200>  |
+| Deep Leakage from Gradients  | Advances in neural information processing systems\[J\] |  2019   | <https://proceedings.neurips.cc/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html>  |
+| PFLM: Privacy-preserving federated learning with membership proof  | Information Sciences\[J\] |  2021   | <https://www.sciencedirect.com/science/article/abs/pii/S0020025521005703>  |
+| Verifable and privacy preserving federated learning without fully trusted centers  | Journal of Ambient Intelligence and Humanized Computing\[J\] |  2022   | <https://link.springer.com/article/10.1007/s12652-020-02664-x>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
+| 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
 | 单元格  | \[J\] |  Title   | <>  |
@@ -139,11 +167,9 @@ read paper for memorization and retrieval
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
 | Incentive-boosted Federated Crowdsourcing  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2023   | <https://ojs.aaai.org/index.php/AAAI/article/view/25744>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| FedToken: Tokenized Incentives for Data Contribution in Federated Learning  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2209.09775>  |
+| FGFL: A blockchain-based fair incentive governor for Federated Learning  | Journal of Parallel and Distributed Computing\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S0743731522000259>  |
+| Incentive-boosted Federated Crowdsourcing  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2023   | <https://ojs.aaai.org/index.php/AAAI/article/view/25744>  |
+| Incentive Mechanism for Horizontal Federated Learning Based on Reputation and Reverse Auction  | Proceedings of the Web Conference 2021\[C\] |  2021   | <https://dl.acm.org/doi/abs/10.1145/3442381.3449888>  |
+| Incentive-Aware Autonomous Client Participation in Federated Learning  | IEEE Transactions on Parallel and Distributed Systems\[J\] |  2022   | <https://ieeexplore.ieee.org/abstract/document/9705080>  |
+| Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling  | IEEE INFOCOM 2023-IEEE Conference on Computer Communications\[C\] |  2023   | <https://ieeexplore.ieee.org/abstract/document/10228923>  |
