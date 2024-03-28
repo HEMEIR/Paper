@@ -1,7 +1,7 @@
 # Paper
 read paper for memorization and retrieval
 
-[Federated Learning](#1)
+[Federated Learning](#federated)
 
 
 
@@ -9,7 +9,7 @@ read paper for memorization and retrieval
 
 
 
-# <div id='1'>Federated Learning<div>
+# <div id='federated'>Federated Learning<div>
 
 ## Client Selection
 |  Title   | Publication  |  Year   | Site  |
