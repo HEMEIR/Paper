@@ -31,21 +31,8 @@ read paper for memorization and retrieval
 | A Unified Analysis of Federated Learning with Arbitrary Client Participation  | Advances in Neural Information Processing Systems\[J\] |  2022   | <https://proceedings.neurips.cc/paper_files/paper/2022/hash/79ba1b827d3fc58e129d1cbfc8ff69f2-Abstract-Conference.html>  |
 | AdaBest: Minimizing Client Drift in Federated Learning via Adaptive Bias Estimation  | European Conference on Computer Vision. Cham: Springer Nature Switzerland\[C\] |  2022   | <https://link.springer.com/chapter/10.1007/978-3-031-20050-2_41>  |
 | GENERALIZATION BOUNDS FOR FEDERATED LEARNING: FAST RATES, UNPARTICIPATING CLIENTS AND UNBOUNDED LOSSES  | The Eleventh International Conference on Learning Representations\[C\] |  2022   | <https://openreview.net/forum?id=-EHqoysUYLx>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| EXPLORING FEDERATED OPTIMIZATION BY REDUCING VARIANCE OF ADAPTIVE UNBIASED CLIENT SAMPLING  | arXiv preprint\[J\] |  2023   | <https://arxiv.org/abs/2310.02698>  |
+
 ## Personalization
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
@@ -101,15 +88,12 @@ read paper for memorization and retrieval
 | Communication-Efficient On-Device Machine Learning:Federated Distillation and Augmentation under Non-IID Private Data  | arXiv preprint\[J\] |  2018   | <https://arxiv.org/abs/1811.11479>  |
 | Federated Learning of a Mixture of Global and Local Models  | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2002.05516>  |
 | Federated Multi-Task Learning  | Advances in neural information processing systems\[J\] |  2017   | <https://proceedings.neurips.cc/paper/2017/hash/6211080fa89981f66b1a0c9d55c61d0f-Abstract.html>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| IMPROVING FEDERATED LEARNING PERSONALIZATION VIA MODEL AGNOSTIC META LEARNING  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1909.12488>  |
+| FedMD: Heterogenous Federated Learning via Model Distillation  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1910.03581>  |
+| Learning What and Where to Transfer  | International conference on machine learning.PMLR\[C\] |  2019   | <https://proceedings.mlr.press/v97/jang19b>  |
+| FITNETS: HINTS FOR THIN DEEP NETS  | Advances in neural information processing systems\[J\] |  2015   | <https://proceedings.neurips.cc/paper/2015/hash/215a71a12769b056c3c32e7299f1c5ed-Abstract.html>  |
+| Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2011.04050>  |
+| Do Deep Nets Really Need to be Deep?  | Advances in neural information processing systems\[J\] |  2014   | <https://proceedings.neurips.cc/paper_files/paper/2014/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html>  |
 
 # Privacy Preservation
 |  Title   | Publication  |  Year   | Site  |
@@ -127,41 +111,41 @@ read paper for memorization and retrieval
 | Deep Leakage from Gradients  | Advances in neural information processing systems\[J\] |  2019   | <https://proceedings.neurips.cc/paper/2019/hash/60a6c4002cc7b29142def8871531281a-Abstract.html>  |
 | PFLM: Privacy-preserving federated learning with membership proof  | Information Sciences\[J\] |  2021   | <https://www.sciencedirect.com/science/article/abs/pii/S0020025521005703>  |
 | Verifable and privacy preserving federated learning without fully trusted centers  | Journal of Ambient Intelligence and Humanized Computing\[J\] |  2022   | <https://link.springer.com/article/10.1007/s12652-020-02664-x>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-
+| DP-ADMM: ADMM-based Distributed Learning with Differential Privacy | IEEE Transactions on Information Forensics and Security\[J\] |  2019   | <https://ieeexplore.ieee.org/abstract/document/8772211>  |
+| Communication-Efficient ADMM-based Federated Learning  | arXiv preprint\[J\] |  2021   | <https://arxiv.org/abs/2110.15318>  |
+| Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy  | 2023 IEEE Symposium on Security and Privacy (SP)\[C\] |  2023   | <https://ieeexplore.ieee.org/abstract/document/10179422>  |
+| Federated Latent Dirichlet Allocation:
+A Local Differential Privacy Based Framework  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2020   | <https://ojs.aaai.org/index.php/AAAI/article/view/6096>  |
+| LDP-FL: Practical Private Aggregation in Federated Learning with Local Differential Privacy | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2007.15789>  |
+| Projected Federated Averaging with Heterogeneous Differential Privacy | Proceedings of the VLDB Endowment\[J\] |  2021   | <https://dl.acm.org/doi/abs/10.14778/3503585.3503592>  |
+| SEMI-SUPERVISED KNOWLEDGE TRANSFER FOR DEEP LEARNING FROM PRIVATE TRAINING DATA  | arXiv preprint\[J\] |  2016   | <https://arxiv.org/abs/1610.05755>  |
+| Local and Central Differential Privacy for Robustness and Privacy in Federated Learning  | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2009.03561>  |
+| Differentially Private Federated Learning via Inexact ADMM with Multiple Local Updates  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2202.09409>  |
+| Differentially Private Federated Learning: A Client Level Perspective  | arXiv preprint\[J\] |  2017   | <https://arxiv.org/abs/1712.07557>  |
+| Federated f-Di↵erential Privacy  | International conference on artificial intelligence and statistics.PMLR\[C\] |  2021   | <https://proceedings.mlr.press/v130/zheng21a.html>  |
+| Federated Learning with Differential Privacy: Algorithms and Performance Analysis | IEEE transactions on information forensics and security\[J\] |  2020   | <https://ieeexplore.ieee.org/abstract/document/9069945>  |
+| Deep Learning with Differential Privacy  | Proceedings of the 2016 ACM SIGSAC conference on computer and communications security\[C\] |  2016   | <https://dl.acm.org/doi/abs/10.1145/2976749.2978318>  |
+| LEARNING DIFFERENTIALLY PRIVATE RECURRENT LANGUAGE MODELS  | arXiv preprint\[J\] |  2017   | <https://arxiv.org/abs/1710.06963>  |
+| Differentially Private Federated Learning on Heterogeneous Data  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/noble22a.html>  |
+| Efficient Differentially Private Secure
+Aggregation for Federated Learning via Hardness of Learning with Errors  | 31st USENIX Security Symposium (USENIX Security 22)\[C\] |  2022   | <https://www.usenix.org/conference/usenixsecurity22/presentation/stevens>  |
+| Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Diferential Privacy  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2212.04371>  |
+| Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy  | International Conference on Machine Learning, ICML 2022\[C\] |  2022   | <https://par.nsf.gov/servlets/purl/10395073>  |
 
 # Dataset
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| MEDMNIST CLASSIFICATION DECATHLON: A LIGHTWEIGHT AUTOML BENCHMARK FOR MEDICAL IMAGE ANALYSIS  | 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)\[C\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9434062>  |
+| LEAF: A Benchmark for Federated Settings  | arXiv preprint\[J\] |  2018   | <https://arxiv.org/abs/1812.01097>  |
+| FLOP: Federated Learning on Medical Datasets using Partial Networks  | Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining\[C\] |  2021   | <https://dl.acm.org/doi/abs/10.1145/3447548.3467185>  |
+| HarmoFL: Harmonizing Local and Global Drifts in
+Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2022   | <https://ojs.aaai.org/index.php/AAAI/article/view/19993>  |
 
 # Security
 |  Title   | Publication  |  Year   | Site  |
 |  -----   | -----------  |  ----   | ----  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
-| 单元格  | \[J\] |  Title   | <>  |
+| Byzantine-Robust Federated Learning with Optimal Statistical Rates  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v206/zhu23b.html>  |
+| Privacy Inference Attack and Defense in Centralized and Federated Learning: A Comprehensive Survey  |  IEEE Transactions on Artificial Intelligence\[J\] |  2024   | <https://ieeexplore.ieee.org/abstract/document/10429780>  |
 
 # Incentive Mechanism
 |  Title   | Publication  |  Year   | Site  |
@@ -173,3 +157,7 @@ read paper for memorization and retrieval
 | Incentive Mechanism for Horizontal Federated Learning Based on Reputation and Reverse Auction  | Proceedings of the Web Conference 2021\[C\] |  2021   | <https://dl.acm.org/doi/abs/10.1145/3442381.3449888>  |
 | Incentive-Aware Autonomous Client Participation in Federated Learning  | IEEE Transactions on Parallel and Distributed Systems\[J\] |  2022   | <https://ieeexplore.ieee.org/abstract/document/9705080>  |
 | Truthful Incentive Mechanism for Federated Learning with Crowdsourced Data Labeling  | IEEE INFOCOM 2023-IEEE Conference on Computer Communications\[C\] |  2023   | <https://ieeexplore.ieee.org/abstract/document/10228923>  |
+| A survey of trust and reputation systems for online service provision  | Decision support systems\[J\] |  2007   | <https://www.sciencedirect.com/science/article/abs/pii/S0167923605000849>  |
+| Corporate reputation in management research: a review of the literature and assessment of the concept  | Business research\[J\] |  2019   | <https://link.springer.com/article/10.1007/s40685-018-0080-4>  |
+| Incentive and Reputation Mechanisms for Online Crowdsourcing Systems  | 2015 IEEE 23rd international symposium on quality of service (IWQoS)\[C\] |  2015   | <https://ieeexplore.ieee.org/abstract/document/7404735>  |
+| Survey on social reputation mechanisms: Someone told me I can trust you  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2212.06436>  |
