@@ -5,17 +5,17 @@ read paper for memorization and retrieval
 
 # [Federated Learning](#1)
 
-## - [Client Selection](#1.1)
+## [Client Selection](#1.1)
 
-## - [Personalization](#1.2)
+## [Personalization](#1.2)
 
-## - [Privacy Preservation](#1.3)
+## [Privacy Preservation](#1.3)
 
-## - [Dataset](#1.4)
+## [Dataset](#1.4)
 
-## - [Security](#1.5)
+## [Security](#1.5)
 
-## - [Incentive Mechanism](#1.6)
+## [Incentive Mechanism](#1.6)
 
 
 # <div id='1'>Federated Learning<div>
