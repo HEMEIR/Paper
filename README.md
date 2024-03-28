@@ -19,11 +19,22 @@ read paper for memorization and retrieval
 
 
 # <div id='1'>Federated Learning<div>
+<style>
+table th:first-of-type {
+    width: 4cm;
+}
+table th:nth-of-type(2) {
+    width: 150pt;
+}
+table th:nth-of-type(3) {
+    width: 8em;
+}
+</style>
 
 ## <div id='1.1'>Client Selection<div>
 |  <div style="width: 150pt">Title</div>   | Publication  |  Year   | Site  |
 |  :---------------:   | :-----------:  |  :----:   | :----:  |
-|<div style="width: 150pt">DIVERSE CLIENT SELECTION FOR FEDERATED LEARNING VIA SUBMODULAR MAXIMIZATION</div> |International Conference on Learning Representations.ICLR\[C\] | 2022 | <https://par.nsf.gov/servlets/purl/10356054>  |
+| DIVERSE CLIENT SELECTION FOR FEDERATED LEARNING VIA SUBMODULAR MAXIMIZATION |International Conference on Learning Representations.ICLR\[C\] | 2022 | <https://par.nsf.gov/servlets/purl/10356054>  |
 | Anchor Sampling for Federated Learning with Partial Client Participation  | International Conference on Machine Learning.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v202/wu23e.html>  |
 | AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning  | IEEE Transactions on Parallel and Distributed Systems\[J\] |  2022   | <https://ieeexplore.ieee.org/abstract/document/9647925> |
 | Efficient Distribution Similarity Identification in Clustered Federated Learning via Principal Angles Between Client Data Subspaces  | Proceedings of the AAAI Conference on Artificial Intelligence\[J\] |  2023   | <https://ojs.aaai.org/index.php/AAAI/article/view/26197>  |
