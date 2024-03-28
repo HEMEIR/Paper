@@ -22,7 +22,7 @@ read paper for memorization and retrieval
 
 ## <div id='1.1'>Client Selection<div>
 |  <div style="width:10000px">Title</div>   | Publication  |  Year   | Site  |
-|  :-----:   | :-----------  |  :----   | :----  |
+|  :--------------------------------------------------:   | :-----------:  |  :----:   | :----:  |
 |DIVERSE CLIENT SELECTION FOR FEDERATED LEARNING VIA SUBMODULAR MAXIMIZATION|International Conference on Learning Representations.ICLR\[C\] | 2022 | <https://par.nsf.gov/servlets/purl/10356054>  |
 | Anchor Sampling for Federated Learning with Partial Client Participation  | International Conference on Machine Learning.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v202/wu23e.html>  |
 | AUCTION: Automated and Quality-Aware Client Selection Framework for Efficient Federated Learning  | IEEE Transactions on Parallel and Distributed Systems\[J\] |  2022   | <https://ieeexplore.ieee.org/abstract/document/9647925> |
@@ -53,7 +53,7 @@ read paper for memorization and retrieval
 
 ## <div id='1.2'>Personalization<div>
 |  Title   | Publication  |  Year   | Site  |
-|  :-----:   | :-----------  |  :----   | :----  |
+|  :-----:   | :-----------:  |  :----:   | :----:  |
 | Personalized Cross-Silo Federated Learning on Non-IID Data  | Proceedings of the AAAI conference on artificial intelligence\[C\] |  2021   | <https://ojs.aaai.org/index.php/AAAI/article/view/16960>  |
 | ON THE CONVERGENCE OF FEDAVG ON NON-IID DATA  | arXiv preprint\[J\] |  2019   | <https://arxiv.org/abs/1907.02189>  |
 | Federated Learning with Buffered Asynchronous Aggregation  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/nguyen22b.html>  |
@@ -115,7 +115,7 @@ read paper for memorization and retrieval
 
 ## <div id='1.3'>Privacy Preservation<div>
 |  Title   | Publication  |  Year   | Site  |
-|  :-----:   | :-----------  |  :----   | :----  |
+|  :-----:   | :-----------:  |  :----:   | :----:  |
 | Differentially Private Federated Learning on Heterogeneous Data  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2022   | <https://proceedings.mlr.press/v151/noble22a.html>  |
 | An adaptive federated learning scheme with differential privacy preserving  | Future Generation Computer Systems\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S0167739X21003617>  |
 | A federated deep learning framework for privacy preservation and communication efficiency | Journal of Systems Architecture\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S1383762122000157>  |
@@ -152,7 +152,7 @@ Aggregation for Federated Learning via Hardness of Learning with Errors  | 31st 
 
 ## <div id='1.4'>Dataset<div>
 |  Title   | Publication  |  Year   | Site  |
-|  :-----:   | :-----------  |  :----   | :----  |
+|  :-----:   | :-----------:  |  :----:   | :----:  |
 | MEDMNIST CLASSIFICATION DECATHLON: A LIGHTWEIGHT AUTOML BENCHMARK FOR MEDICAL IMAGE ANALYSIS  | 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI)\[C\] |  2021   | <https://ieeexplore.ieee.org/abstract/document/9434062>  |
 | LEAF: A Benchmark for Federated Settings  | arXiv preprint\[J\] |  2018   | <https://arxiv.org/abs/1812.01097>  |
 | FLOP: Federated Learning on Medical Datasets using Partial Networks  | Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery & Data Mining\[C\] |  2021   | <https://dl.acm.org/doi/abs/10.1145/3447548.3467185>  |
@@ -161,13 +161,13 @@ Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Co
 
 ## <div id='1.5'>Security<div>
 |  Title   | Publication  |  Year   | Site  |
-|  :-----:   | :-----------  |  :----   | :----  |
+|  :-----:   | :-----------:  |  :----:   | :----:  |
 | Byzantine-Robust Federated Learning with Optimal Statistical Rates  | International Conference on Artificial Intelligence and Statistics.PMLR\[C\] |  2023   | <https://proceedings.mlr.press/v206/zhu23b.html>  |
 | Privacy Inference Attack and Defense in Centralized and Federated Learning: A Comprehensive Survey  |  IEEE Transactions on Artificial Intelligence\[J\] |  2024   | <https://ieeexplore.ieee.org/abstract/document/10429780>  |
 
 ## <div id='1.6'>Incentive Mechanism<div>
 |  Title   | Publication  |  Year   | Site  |
-|  :-----:   | :-----------  |  :----   | :----  |
+|  :-----:   | :-----------:  |  :----:   | :----:  |
 | Incentive-boosted Federated Crowdsourcing  | Proceedings of the AAAI Conference on Artificial Intelligence\[C\] |  2023   | <https://ojs.aaai.org/index.php/AAAI/article/view/25744>  |
 | FedToken: Tokenized Incentives for Data Contribution in Federated Learning  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2209.09775>  |
 | FGFL: A blockchain-based fair incentive governor for Federated Learning  | Journal of Parallel and Distributed Computing\[J\] |  2022   | <https://www.sciencedirect.com/science/article/abs/pii/S0743731522000259>  |
