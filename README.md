@@ -197,6 +197,8 @@ Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Co
 | Privacy Inference Attack and Defense in Centralized and Federated Learning: A Comprehensive Survey  |  IEEE Transactions on Artificial Intelligence\[J\] |  2024   | <https://ieeexplore.ieee.org/abstract/document/10429780>  |
 |  Encodermi: Mem- bership inference against pre-trained encoders in contrastive learning   | Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security\[C\]  |  2021   | <https://dl.acm.org/doi/abs/10.1145/3460120.3484749>  |
 |  Membership Inference Attacks Against Machine Learning Models   | 2017 IEEE symposium on security and privacy (SP)\[C\]  |  2017   | <https://ieeexplore.ieee.org/abstract/document/7958568>  |
+|  Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment   | Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security\[C\]  |  2019   | <https://dl.acm.org/doi/abs/10.1145/3319535.3354261>  |
+
 
 </details>
 
