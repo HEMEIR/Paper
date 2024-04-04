@@ -199,7 +199,11 @@ Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Co
 |  Encodermi: Mem- bership inference against pre-trained encoders in contrastive learning   | Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security\[C\]  |  2021   | <https://dl.acm.org/doi/abs/10.1145/3460120.3484749>  |
 |  Membership Inference Attacks Against Machine Learning Models   | 2017 IEEE symposium on security and privacy (SP)\[C\]  |  2017   | <https://ieeexplore.ieee.org/abstract/document/7958568>  |
 |  Neural Network Inversion in Adversarial Setting via Background Knowledge Alignment   | Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security\[C\]  |  2019   | <https://dl.acm.org/doi/abs/10.1145/3319535.3354261>  |
-
+|  Active Membership Inference Attack under Local Differential Privacy in Federated Learning   | 26th International Conference on Artificial Intelligence and Statistics (AISTATS)\[C\]  |  2023   | <https://arxiv.org/abs/2302.12685>  |
+|  AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning   | Proceedings of the ACM Web Conference 2023\[C\]  |  2023   | <https://dl.acm.org/doi/abs/10.1145/3543507.3583542>  |
+|  EFFECTIVE PASSIVE MEMBERSHIP INFERENCE ATTACKS IN FEDERATED LEARNING AGAINST OVERPARAMETERIZED MODELS   | The Eleventh International Conference on Learning Representations\[C\]  |  2022   | <https://openreview.net/forum?id=QsCSLPP55Ku>  |
+|  Interaction-level Membership Inference Attack Against Federated Recommender Systems   | Proceedings of the ACM Web Conference 2023\[C\]  |  2023   | <https://dl.acm.org/doi/abs/10.1145/3543507.3583359>  |
+|  Formal Logic Enabled Personalized Federated Learning through Property Inference   | arXiv preprint\[J\]  |  2023   | <https://arxiv.org/abs/2401.07448>  |
 
 </details>
 
