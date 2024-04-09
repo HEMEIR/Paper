@@ -128,6 +128,7 @@ read paper for memorization and retrieval
 | FITNETS: HINTS FOR THIN DEEP NETS  | Advances in neural information processing systems\[J\] |  2015   | <https://proceedings.neurips.cc/paper/2015/hash/215a71a12769b056c3c32e7299f1c5ed-Abstract.html>  |
 | Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2011.04050>  |
 | Do Deep Nets Really Need to be Deep?  | Advances in neural information processing systems\[J\] |  2014   | <https://proceedings.neurips.cc/paper_files/paper/2014/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html>  |
+|  Formal Logic Enabled Personalized Federated Learning through Property Inference   | arXiv preprint\[J\]  |  2023   | <https://arxiv.org/abs/2401.07448>  |
 
 </details>
 
@@ -203,7 +204,6 @@ Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Co
 |  AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning   | Proceedings of the ACM Web Conference 2023\[C\]  |  2023   | <https://dl.acm.org/doi/abs/10.1145/3543507.3583542>  |
 |  EFFECTIVE PASSIVE MEMBERSHIP INFERENCE ATTACKS IN FEDERATED LEARNING AGAINST OVERPARAMETERIZED MODELS   | The Eleventh International Conference on Learning Representations\[C\]  |  2022   | <https://openreview.net/forum?id=QsCSLPP55Ku>  |
 |  Interaction-level Membership Inference Attack Against Federated Recommender Systems   | Proceedings of the ACM Web Conference 2023\[C\]  |  2023   | <https://dl.acm.org/doi/abs/10.1145/3543507.3583359>  |
-|  Formal Logic Enabled Personalized Federated Learning through Property Inference   | arXiv preprint\[J\]  |  2023   | <https://arxiv.org/abs/2401.07448>  |
 
 </details>
 
