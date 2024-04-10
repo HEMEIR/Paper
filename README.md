@@ -204,6 +204,7 @@ Federated Learning on Heterogeneous Medical Images  | Proceedings of the AAAI Co
 |  AgrEvader: Poisoning Membership Inference against Byzantine-robust Federated Learning   | Proceedings of the ACM Web Conference 2023\[C\]  |  2023   | <https://dl.acm.org/doi/abs/10.1145/3543507.3583542>  |
 |  EFFECTIVE PASSIVE MEMBERSHIP INFERENCE ATTACKS IN FEDERATED LEARNING AGAINST OVERPARAMETERIZED MODELS   | The Eleventh International Conference on Learning Representations\[C\]  |  2022   | <https://openreview.net/forum?id=QsCSLPP55Ku>  |
 |  Interaction-level Membership Inference Attack Against Federated Recommender Systems   | Proceedings of the ACM Web Conference 2023\[C\]  |  2023   | <https://dl.acm.org/doi/abs/10.1145/3543507.3583359>  |
+|  Source Inference Attacks: Beyond Membership Inference Attacks in Federated Learning   | IEEE Transactions on Dependable and Secure Computing\[J\]  |  2023   | <https://ieeexplore.ieee.org/abstract/document/10269696>  |
 
 </details>
 
