@@ -129,6 +129,8 @@ read paper for memorization and retrieval
 | Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2011.04050>  |
 | Do Deep Nets Really Need to be Deep?  | Advances in neural information processing systems\[J\] |  2014   | <https://proceedings.neurips.cc/paper_files/paper/2014/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html>  |
 |  Formal Logic Enabled Personalized Federated Learning through Property Inference   | arXiv preprint\[J\]  |  2023   | <https://arxiv.org/abs/2401.07448>  |
+|  FEDSPEED: LARGER LOCAL INTERVAL, LESS COMMUNICATION ROUND, AND HIGHER GENERALIZATION ACCURACY   | The Eleventh International Conference on Learning Representations\[C\]  |  2022   | <https://arxiv.org/abs/2302.10429>  |
+
 
 </details>
 
