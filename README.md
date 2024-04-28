@@ -129,6 +129,7 @@ read paper for memorization and retrieval
 | Adaptive Federated Dropout: Improving Communication Efficiency and Generalization for Federated Learning | arXiv preprint\[J\] |  2020   | <https://arxiv.org/abs/2011.04050>  |
 | Do Deep Nets Really Need to be Deep?  | Advances in neural information processing systems\[J\] |  2014   | <https://proceedings.neurips.cc/paper_files/paper/2014/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html>  |
 |  Formal Logic Enabled Personalized Federated Learning through Property Inference   | arXiv preprint\[J\]  |  2023   | <https://arxiv.org/abs/2401.07448>  |
+|  Revisiting Weighted Aggregation in Federated Learning with Neural Networks   | International Conference on Machine Learning. PMLR\[C\]  |  2023   | <https://proceedings.mlr.press/v202/li23s.html>  |
 
 
 </details>
