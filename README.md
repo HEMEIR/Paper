@@ -174,6 +174,7 @@ Aggregation for Federated Learning via Hardness of Learning with Errors  | 31st 
 | Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Diferential Privacy  | arXiv preprint\[J\] |  2022   | <https://arxiv.org/abs/2212.04371>  |
 | Understanding Clipping for Federated Learning: Convergence and Client-Level Differential Privacy  | International Conference on Machine Learning, ICML 2022\[C\] |  2022   | <https://par.nsf.gov/servlets/purl/10395073>  |
 | Fast-adapting and privacy-preserving federated recommender system  | The VLDB Journal\[J\] |  2022   | <https://link.springer.com/article/10.1007/s00778-021-00700-6>  |
+| Differentially Private Federated Learning: A Systematic Review  | arXiv preprint\[J\] |  2024   | <https://arxiv.org/abs/2405.08299>  |
 
 </details>
 
